@@ -2,8 +2,8 @@
 
 
 general assets for use in world building and virtual events
-make sure the assets are creative commons: https://creativecommons.org/
-Preferably with CC0 or CC-BY
+
+Make sure the assets are creative commons (https://creativecommons.org/), preferably with CC0 or CC-BY
 
 ---
 
